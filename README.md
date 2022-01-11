@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Batman Amazon Store 🦇
+
+
+![alttext](public/images/front_page.jpg)
+![alttext](public/images/front_page_2.jpg)
+![alttext](public/images/cart_page.jpg)
 
 ## Available Scripts
 
